@@ -19,7 +19,7 @@ type Nico struct {
 }
 
 var (
-	nicoxyz  = "https://nicolink.xyz/"
+	nicoxyz  = ""
 	tokenMap = map[string]string{
 		"A": "A's token",
 		"B": "B's token",
